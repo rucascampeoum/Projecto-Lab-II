@@ -1,0 +1,37 @@
+//Criar pasta de raiz
+
+npm init
+npm install express --save
+
+//criar ficheiro
+echo "" > server.js
+
+//iniciar o servidor
+node server.js
+
+//num browser
+escrever na barra de endereço
+http://localhost:3000/
+
+
+//para o about
+http://localhost:3000/about
+
+
+
+//terminar o servidor
+
+ctrl +c
+
+pwd
+
+ver caminho total da pasta
+
+
+templetes
+
+install modulo hbs
+https://handlebarsjs.com/
+
+
+
